@@ -8,6 +8,7 @@ on:
 
 permissions:
   security-events: write
+  issues: write
 
 jobs:
   Build:
